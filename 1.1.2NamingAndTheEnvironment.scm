@@ -1,0 +1,8 @@
+(define pi 3.14159)
+(define radius 10)
+(define area (* pi (* radius radius)))
+(define circumference (* 2 pi radius))
+(display pi)
+(display radius)
+(display area)
+(display circumference)
